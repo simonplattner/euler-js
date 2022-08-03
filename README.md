@@ -1,5 +1,3 @@
-# template
+# Euler-JS
 
-## Versioning
-
-This project follows [semantic versioning](https://semver.org/).
+[Project Euler](https://projecteuler.net/) offers quite a few mathematical/computer programming problems. I want to solve a few of them using javascript.
