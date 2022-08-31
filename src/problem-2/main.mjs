@@ -1,5 +1,5 @@
 import fibbonaciGenerator from "./modules/fibbonaci.mjs";
-import stream from "./modules/stream.mjs";
+import stream from "../util/stream.mjs";
 
 async function main() {
 
