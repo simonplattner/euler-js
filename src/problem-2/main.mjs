@@ -1,4 +1,4 @@
-import fibbonaciGenerator from "./modules/fibbonaci.mjs";
+import fibbonaciGenerator from "./modules/fibbonaciGenerator.mjs";
 import stream from "../util/stream.mjs";
 
 async function main() {
